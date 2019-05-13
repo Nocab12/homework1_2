@@ -4,4 +4,4 @@ function balance (n, forms) {
 
 }
 
-console.log('Ваш баланс: ' + sum + balance(sum, [" балл", " балла", " баллов"] ));
+console.log('Ваш баланс: ' + sum + balance(sum, [" балл3", " балла", " баллов"] ));
